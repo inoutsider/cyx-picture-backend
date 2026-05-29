@@ -1,4 +1,4 @@
-package com.cyx.cyxpicturebackend;
+package com.cyx.picturebackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
